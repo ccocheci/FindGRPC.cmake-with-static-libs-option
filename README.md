@@ -1,0 +1,1 @@
+# FindGRPC.cmake-with-static-libs-option
